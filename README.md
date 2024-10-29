@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+CV: https://dalbul-rsschool-cv-html.netlify.app/
 <!--
 **DanAlbul/DanAlbul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
